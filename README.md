@@ -1,4 +1,30 @@
-# dbip-api-client
+# dbip-api-client{
+    "ipAddress": "123.45.67.89",
+    "continentCode": "NA",
+    "continentName": "North America",
+    "countryCode": "US",
+    "countryName": "United States",
+    "isEuMember": false,
+    "currencyCode": "USD",
+    "currencyName": "Dollar",
+    "phonePrefix": "1",
+    "languages": [
+        "en-US",
+        "es-US",
+        "haw",
+        "fr"
+    ],
+    "stateProvCode": "CA",
+    "stateProv": "California",
+    "district": "Santa Clara County",
+    "city": "Mountain View",
+    "geonameId": 5375480,
+    "zipCode": "94043",
+    "latitude": 37.3861,
+    "longitude": -122.084,
+    "gmtOffset": -7,
+    "timeZone": "America\/Los_Angeles",
+}
 
 This is the officially supported PHP 7.x client library for the [db-ip.com](https://db-ip.com/) API services.
 
